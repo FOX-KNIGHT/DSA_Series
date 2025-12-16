@@ -1,0 +1,10 @@
+{
+    "java.jdt.ls.java.home": "C:\\Users\\ayush\\.gemini\\java\\jdk-25.0.1",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-25",
+            "path": "C:\\Users\\ayush\\.gemini\\java\\jdk-25.0.1",
+            "default": true
+        }
+    ]
+}
