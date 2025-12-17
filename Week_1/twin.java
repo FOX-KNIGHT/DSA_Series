@@ -1,12 +1,12 @@
 import java.util.Scanner;
 public class twin {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
         int[] a = new int[n];
         int totalSum = 0;
         for (int i = 0; i < n; i++) {
-            a[i] = scanner.nextInt();
+            a[i] = sc.nextInt();
             totalSum += a[i];
         }
         for (int i = 0; i < n - 1; i++) {
